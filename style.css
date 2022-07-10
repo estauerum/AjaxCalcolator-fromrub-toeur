@@ -1,0 +1,17 @@
+.feed-form {
+    display: flex;
+    flex-direction: column;
+}
+
+.feed-form input {
+    border: none;
+    width: 179px;
+    height: 30px;
+    background: #EFEFF7;
+    border-radius: 5px;
+    font-weight: 700;
+    font-size: 13px;
+    line-height: 16px;
+    color: #7A85AD;
+    
+}
